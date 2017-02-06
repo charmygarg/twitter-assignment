@@ -14,5 +14,9 @@ Keep in mind:
 /**
 **/
 
+Snapshot Of SBT coverage:89.06...I will try to improve it more!!
+
 ![alt tag](https://raw.githubusercontent.com/charmygarg/twitter-assignment/master/SnapShotOfSBTCoverage.png)
+
+Snapshot Of ScalaStyle:
 ![alt tag](https://raw.githubusercontent.com/charmygarg/twitter-assignment/master/SnapshotOfScalastyle.png)
